@@ -1,0 +1,18 @@
+﻿  Line.cpp
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(26,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(27,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(28,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(43,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(44,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(45,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(70,25): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\yamprod\Graphics-Demos\Graphics-Demos\Line\Line.cpp(71,25): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Graphics-Demos.vcxproj -> E:\yamprod\Graphics-Demos\Debug\Graphics-Demos.exe
